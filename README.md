@@ -1,2 +1,2 @@
 # demo-day
-this is for just demo
+this is for just practice
